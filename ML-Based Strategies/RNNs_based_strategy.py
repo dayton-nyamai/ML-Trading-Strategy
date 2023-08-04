@@ -1,3 +1,16 @@
+#
+#
+# The script below aims to leverage machine learning techniques, specifically Recurrent 
+# Neural Networks (RNNs) to develop a trading strategy that can generate consistent 
+# profits in the financial markets. By utilizing historical data and advanced algorithms,
+# we aim to identify patterns and trends that can be exploited for profitable trading 
+# opportunities.
+#
+# aiquants Research
+# (c) Dayton Nyamai
+#
+#
+
 # Import the necessary libraries
 import pandas as pd
 import numpy as np
