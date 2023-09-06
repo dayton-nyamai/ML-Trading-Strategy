@@ -1,6 +1,6 @@
 #
 #
-# The script below aims to leverage Convolutional Neural Networks (RNNs) to develop a 
+# The script below aims to leverage Convolutional Neural Networks (CNNs) to develop a 
 # trading strategy that can generate consistent profits in the financial markets. By 
 # utilizing historical data and advanced algorithms, we aim to identify patterns and 
 # trends that can be exploited for profitable trading opportunities.
